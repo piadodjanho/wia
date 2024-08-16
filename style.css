@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+   display: flex;
+   justify-content: space-around;
+   align-items: center
+   ;
+}
+body{background-color: gray;}
+
+.fotodofodao{
+   width: 30%;
+}
+section{ 
+    display: flex;
+justify-content: space-around;
+}
+
+
+.chavinho{
+    width: 10%;
+    
+
+ }
+
+ .pinto{
+    display: inline-block;
+    margin: 0 10px;
+    
+ }
+
+ 
+ .texto{
+    width: 40%;
+ }
+ 
